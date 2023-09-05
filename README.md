@@ -31,5 +31,21 @@ To build Prescription  model, which help in Prescribing the best drug based on g
 ### 2.1 Distribution of ratings
 ![image](https://github.com/nihar-max/drug_prescription_using_reviews/assets/61958476/38c5eb69-0175-4929-8218-ccf10003586b)
 
+### 2.3 Number of Ratings per a Year
+![image](https://github.com/nihar-max/drug_prescription_using_reviews/assets/61958476/b2a08bdd-e901-4b8d-9aa2-7ad12e2211f7)
+Observation: There is a huge spike in ratings from 2014.
+
+### 2.3 Univariate Analysis on condition using CDF
+![image](https://github.com/nihar-max/drug_prescription_using_reviews/assets/61958476/1366d47c-0152-4aea-8f8b-64e02d636f42)
+Observation: By looking at CDF it seems that out of 800 unique conditions our 90% of data includes only top (50-75) conditions
+
+### Q1. What is the 6 most frequent illness condition?
+![image](https://github.com/nihar-max/drug_prescription_using_reviews/assets/61958476/ceb50164-0379-47e9-94b9-d097300524af)
+
+### Q2. What are 4 most frequently suggested drugs for those top 6 most frequent condition?
+![image](https://github.com/nihar-max/drug_prescription_using_reviews/assets/61958476/163ce10d-b7a4-44ad-9199-b8e78482e5d5)
+
+
+
 
 
