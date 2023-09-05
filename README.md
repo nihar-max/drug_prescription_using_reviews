@@ -58,7 +58,7 @@ Observation: By looking at CDF it seems that out of 800 unique conditions our 90
 ### 2.Satisfied
 ![image](https://github.com/nihar-max/drug_prescription_using_reviews/assets/61958476/f14de8ef-b16d-47c3-94c6-7f762532107e)
 
-### Highly Unsatisfied
+### 3.Highly Unsatisfied
 ![image](https://github.com/nihar-max/drug_prescription_using_reviews/assets/61958476/d4745d3c-ff2a-4221-9817-fad8ce985909)
 
 ## Feature Engineering
